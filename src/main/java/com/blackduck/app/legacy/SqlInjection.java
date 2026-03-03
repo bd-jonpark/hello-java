@@ -1,7 +1,8 @@
 // https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html#anatomy-of-a-typical-sql-injection-vulnerability
+package com.blackduck.app.legacy;
 
 import java.sql.*;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletRequest;
 
 public class SqlInjection {
     public static ResultSet doQuery(HttpServletRequest request, Connection connection) throws SQLException {

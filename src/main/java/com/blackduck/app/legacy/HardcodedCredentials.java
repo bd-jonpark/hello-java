@@ -1,5 +1,6 @@
 // https://documentation.blackduck.com/bundle/coverity-docs/page/checker-ref/checkers/FGH/hardcoded_credentials.html
 // https://documentation.blackduck.com/bundle/coverity-docs/page/checker-ref/checkers/VWXYZ/weak_password_hash.html
+package com.blackduck.app.legacy;
 
 import java.io.*;
 import java.sql.*;

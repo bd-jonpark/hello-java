@@ -1,4 +1,5 @@
 // https://documentation.blackduck.com/bundle/coverity-docs/page/checker-ref/checkers/R/reverse_inull.html
+package com.blackduck.app.legacy;
 
 public class ReverseNullExample {
     public static Object callA(Object o) {

@@ -1,4 +1,5 @@
 // https://documentation.blackduck.com/bundle/coverity-docs/page/checker-ref/checkers/NO/null_returns.html
+package com.blackduck.app.legacy;
 
 public class NullReturnsExample {
     static int count = 0;
