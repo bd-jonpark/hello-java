@@ -1,4 +1,4 @@
-package com.blackduck.app.web;
+package com.demo.app.web;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

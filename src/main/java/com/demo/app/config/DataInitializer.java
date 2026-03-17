@@ -1,4 +1,4 @@
-package com.blackduck.app.config;
+package com.demo.app.config;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.jdbc.core.JdbcTemplate;

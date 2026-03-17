@@ -7,7 +7,7 @@
     <version>3.2.5</version>
   </parent>
 
-  <groupId>com.blackduck.app</groupId>
+  <groupId>com.demo.app</groupId>
   <artifactId>hello-java</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>

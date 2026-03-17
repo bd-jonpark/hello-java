@@ -1,5 +1,5 @@
 // https://logging.apache.org/log4j/2.x/manual/api.html
-package com.blackduck.app.legacy;
+package com.demo.app.legacy;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

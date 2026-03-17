@@ -1,5 +1,5 @@
 // https://documentation.blackduck.com/bundle/coverity-docs/page/checker-ref/checkers/FGH/forward_null.html
-package com.blackduck.app.legacy;
+package com.demo.app.legacy;
 
 public class ForwardNullExample {
     public static Object callA() {

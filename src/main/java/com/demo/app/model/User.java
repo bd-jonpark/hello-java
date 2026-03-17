@@ -1,4 +1,4 @@
-package com.blackduck.app.model;
+package com.demo.app.model;
 
 import jakarta.persistence.*;
 

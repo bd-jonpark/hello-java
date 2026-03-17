@@ -1,4 +1,4 @@
-package com.blackduck.app.web;
+package com.demo.app.web;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
